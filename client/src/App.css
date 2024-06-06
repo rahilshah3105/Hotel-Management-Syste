@@ -1,0 +1,13 @@
+.login{
+    /* width: 100vw; */
+        height: 70vh;
+    display: grid;
+    place-items: center;
+}
+.bg-primary {
+    background-color: rgb(255, 119, 0) !important;
+}
+
+.line {
+    text-underline-offset: 10px;
+}
